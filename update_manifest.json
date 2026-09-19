@@ -1,0 +1,9 @@
+{
+  "version": "1.8.1",
+  "channel": "stable",
+  "mandatory": false,
+  "notes": [
+    "Uygulama içi otomatik güncelleme sistemi eklendi."
+  ],
+  "assets": {}
+}
