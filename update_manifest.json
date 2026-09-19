@@ -1,15 +1,15 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "channel": "stable",
   "mandatory": false,
   "notes": [
-    "ÖZKAN MultiDowloader v1.8.4 güncellemesi.",
-    "Otomatik güncelleme sistemi test sürümü."
+    "ÖZKAN MultiDowloader v1.8.5",
+    "Mini güncelleyici arayüzü eklendi."
   ],
   "assets": {
     "setup": {
-      "url": "https://github.com/keremcnozkn/OZKAN-MultiDowloader/releases/download/v1.8.4/OZKAN_MultiDowloader_Setup_1.8.4.exe",
-      "sha256": "a86865cb7132c9337f3f0c037e0eb01be43c6453215f2c2c43e71d15d7a7e774"
+      "url": "https://github.com/keremcnozkn/OZKAN-MultiDowloader/releases/download/v1.8.5/OZKAN_MultiDowloader_Setup_1.8.5.exe",
+      "sha256": "044837af554dacd2ccdcce06c0c9e36bb1c902143b4d8339d9d0b82d5ffc2876"
     }
   }
 }
