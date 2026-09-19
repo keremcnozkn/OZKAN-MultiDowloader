@@ -1,15 +1,16 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "channel": "stable",
   "mandatory": false,
   "notes": [
-    "ÖZKAN MultiDowloader v1.8.5",
-    "Mini güncelleyici arayüzü eklendi."
+    "ÖZKAN MultiDowloader v1.8.6",
+    "Pencere ve görev çubuğu uygulama logosu düzeltildi.",
+    "Mini güncelleyici arayüzü korunuyor."
   ],
   "assets": {
     "setup": {
-      "url": "https://github.com/keremcnozkn/OZKAN-MultiDowloader/releases/download/v1.8.5/OZKAN_MultiDowloader_Setup_1.8.5.exe",
-      "sha256": "044837af554dacd2ccdcce06c0c9e36bb1c902143b4d8339d9d0b82d5ffc2876"
+      "url": "https://github.com/keremcnozkn/OZKAN-MultiDowloader/releases/download/v1.8.6/OZKAN_MultiDowloader_Setup_1.8.6.exe",
+      "sha256": "c15481e1636aeb1afbefa4297fb036351ac588f16f7e63dd9be1fb2a00dd0edd"
     }
   }
 }
